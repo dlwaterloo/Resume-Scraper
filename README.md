@@ -12,6 +12,7 @@ pip install -r requirements.txt
 python app.py
 
 create a .env file in the server dir:
+
 LINKEDIN_USERNAME=
 
 LINKEDIN_PASSWORD=
