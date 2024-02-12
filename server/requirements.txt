@@ -1,0 +1,8 @@
+flask
+linkedin-api
+requests
+openai
+langchain
+langchain_openai
+python-dotenv
+flask-cors
